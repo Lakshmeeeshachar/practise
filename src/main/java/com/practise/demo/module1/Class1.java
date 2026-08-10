@@ -11,14 +11,14 @@ public class Class1 implements CommandLineRunner {
     @Override
     public void run(String... args) throws Exception {
 
-        Scanner sc = new Scanner(System.in);
-
-        System.out.print("Enter a number: ");
-        int input = sc.nextInt();
+//        Scanner sc = new Scanner(System.in);
+//
+//        System.out.print("Enter a number: ");
+//        int input = sc.nextInt();
 
 //        problem1(input);15
 //        problem2(input);
-        problem3(input);
+//        problem3(input);
 
     }
 
